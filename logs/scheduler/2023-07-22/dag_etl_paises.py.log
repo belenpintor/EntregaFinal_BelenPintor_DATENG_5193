@@ -1,0 +1,21 @@
+[2023-07-22 00:24:14,451] {processor.py:153} INFO - Started process (PID=15898) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:14,465] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-22 00:24:14,486] {logging_mixin.py:115} INFO - [2023-07-22 00:24:14,486] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:17,020] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:17,626] {logging_mixin.py:115} INFO - [2023-07-22 00:24:17,625] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-22 00:24:17,931] {logging_mixin.py:115} INFO - [2023-07-22 00:24:17,931] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-22T00:00:00+00:00, run_after=2023-07-23T00:00:00+00:00
+[2023-07-22 00:24:18,130] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 3.707 seconds
+[2023-07-22 00:24:29,085] {processor.py:153} INFO - Started process (PID=15906) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:29,092] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-22 00:24:29,109] {logging_mixin.py:115} INFO - [2023-07-22 00:24:29,103] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:34,038] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 00:24:34,550] {logging_mixin.py:115} INFO - [2023-07-22 00:24:34,550] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-22 00:24:34,965] {logging_mixin.py:115} INFO - [2023-07-22 00:24:34,965] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-22T00:00:00+00:00, run_after=2023-07-23T00:00:00+00:00
+[2023-07-22 00:24:35,055] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 6.067 seconds
+[2023-07-22 15:52:15,171] {processor.py:153} INFO - Started process (PID=15914) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 15:52:15,198] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-22 15:52:15,221] {logging_mixin.py:115} INFO - [2023-07-22 15:52:15,220] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 15:52:19,022] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-22 15:52:20,267] {logging_mixin.py:115} INFO - [2023-07-22 15:52:20,267] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-22 15:52:22,255] {logging_mixin.py:115} INFO - [2023-07-22 15:52:22,255] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-22T00:00:00+00:00, run_after=2023-07-23T00:00:00+00:00
+[2023-07-22 15:52:23,066] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 7.997 seconds

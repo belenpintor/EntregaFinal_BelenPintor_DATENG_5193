@@ -1,0 +1,5 @@
+pg8000
+requests
+apache-airflow-providers-apache-spark
+apache-airflow[amazon]
+apache-airflow-providers-amazon

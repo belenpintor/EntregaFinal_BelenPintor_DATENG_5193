@@ -1,0 +1,11 @@
+[2023-07-23 14:52:28,645] {processor.py:153} INFO - Started process (PID=15921) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-23 14:52:28,651] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-23 14:52:28,685] {logging_mixin.py:115} INFO - [2023-07-23 14:52:28,685] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-23 14:52:33,536] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-23 14:52:35,690] {processor.py:611} INFO - Executed failure callback for <TaskInstance: dag_con_conexion_postgres.transformar_datos scheduled__2023-07-21T00:00:00+00:00 [failed]> in state failed
+[2023-07-23 14:52:36,209] {logging_mixin.py:115} INFO - [2023-07-23 14:52:36,208] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-23 14:52:36,545] {logging_mixin.py:115} INFO - [2023-07-23 14:52:36,545] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-23T00:00:00+00:00, run_after=2023-07-24T00:00:00+00:00
+[2023-07-23 14:52:36,737] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 8.238 seconds
+[2023-07-23 14:53:01,787] {processor.py:153} INFO - Started process (PID=15928) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-23 14:53:02,054] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-23 14:53:02,140] {logging_mixin.py:115} INFO - [2023-07-23 14:53:02,116] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py

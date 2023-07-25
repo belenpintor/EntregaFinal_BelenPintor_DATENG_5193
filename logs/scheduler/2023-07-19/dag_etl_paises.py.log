@@ -1,0 +1,77 @@
+[2023-07-19 04:58:34,976] {processor.py:153} INFO - Started process (PID=13282) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:34,990] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-19 04:58:35,006] {logging_mixin.py:115} INFO - [2023-07-19 04:58:35,005] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:36,696] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:36,848] {logging_mixin.py:115} INFO - [2023-07-19 04:58:36,847] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-19 04:58:36,974] {logging_mixin.py:115} INFO - [2023-07-19 04:58:36,973] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-19 04:58:37,034] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 2.361 seconds
+[2023-07-19 04:58:47,299] {processor.py:153} INFO - Started process (PID=13289) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:47,308] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-19 04:58:47,311] {logging_mixin.py:115} INFO - [2023-07-19 04:58:47,311] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:48,526] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:58:49,914] {logging_mixin.py:115} INFO - [2023-07-19 04:58:49,914] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-19 04:58:50,379] {logging_mixin.py:115} INFO - [2023-07-19 04:58:50,370] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-19 04:58:50,609] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 3.333 seconds
+[2023-07-19 04:59:01,324] {processor.py:153} INFO - Started process (PID=13296) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:01,339] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-19 04:59:01,349] {logging_mixin.py:115} INFO - [2023-07-19 04:59:01,349] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:02,251] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:02,317] {logging_mixin.py:115} INFO - [2023-07-19 04:59:02,317] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-19 04:59:02,373] {logging_mixin.py:115} INFO - [2023-07-19 04:59:02,372] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-19 04:59:01,316] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 1.226 seconds
+[2023-07-19 04:59:11,836] {processor.py:153} INFO - Started process (PID=13301) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:11,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-19 04:59:11,848] {logging_mixin.py:115} INFO - [2023-07-19 04:59:11,848] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:18,871] {processor.py:651} INFO - DAG(s) dict_keys(['dag_con_conexion_postgres']) retrieved from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 04:59:18,974] {logging_mixin.py:115} INFO - [2023-07-19 04:59:18,973] {dag.py:2420} INFO - Sync 1 DAGs
+[2023-07-19 04:59:19,059] {logging_mixin.py:115} INFO - [2023-07-19 04:59:19,058] {dag.py:2972} INFO - Setting next_dagrun for dag_con_conexion_postgres to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-19 04:59:19,472] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_etl_paises.py took 7.681 seconds
+[2023-07-19 12:59:22,876] {processor.py:153} INFO - Started process (PID=13306) to work on /opt/airflow/dags/dag_etl_paises.py
+[2023-07-19 12:59:22,896] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_etl_paises.py for tasks to queue
+[2023-07-19 12:59:22,905] {logging_mixin.py:115} INFO - [2023-07-19 12:59:22,905] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/dag_etl_paises.py
+[2023-07-21 16:54:26,957] {logging_mixin.py:115} INFO - [2023-07-21 16:54:26,885] {timeout.py:67} ERROR - Process timed out, PID: 13306
+[2023-07-21 16:54:27,159] {logging_mixin.py:115} INFO - [2023-07-21 16:54:27,005] {dagbag.py:321} ERROR - Failed to import: /opt/airflow/dags/dag_etl_paises.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_etl_paises.py", line 29, in <module>
+    op_kwargs={'data': get_data()},
+  File "/opt/airflow/dags/script_etl.py", line 97, in get_data
+    response = requests.get(url)
+  File "/home/airflow/.local/lib/python3.7/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 1040, in _validate_conn
+    conn.connect()
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/connection.py", line 424, in connect
+    tls_in_tls=tls_in_tls,
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 450, in ssl_wrap_socket
+    sock, context, tls_in_tls, server_hostname=server_hostname
+  File "/home/airflow/.local/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/local/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/usr/local/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/usr/local/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 68, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag_etl_paises.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.3.3/best-practices.html#reducing-dag-complexity, PID: 13306
+[2023-07-21 16:54:27,682] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_etl_paises.py
